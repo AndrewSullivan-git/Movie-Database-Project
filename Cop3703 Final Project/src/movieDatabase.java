@@ -11,7 +11,7 @@ import java.io.*;
 public class movieDatabase {
     static final String DB_URL = "jdbc:mysql://localhost:3306/?useSSL=false";
     static final String USER = "root";
-    static final String PASS = "Sullivan2021$";
+    static final String PASS = "Sullivan";
 
     //main method establishes jdbc connection, creates the database, and creates the necessary tables
     public static void main(String[] args) {
